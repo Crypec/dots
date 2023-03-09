@@ -336,3 +336,7 @@ ls
 nvim README.md
 git commit -am ""
 ls
+git commit -am "update dotfiles"
+ls
+git push -u origin main
+nvim README.md

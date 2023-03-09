@@ -1,6 +1,6 @@
 # Dotfiles
 
-![desktop]("./readme_img.png")
+![Screenshot of example desktop](readme_img.png)
 
 ## How to use it
 
