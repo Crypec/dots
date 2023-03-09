@@ -267,3 +267,11 @@ cd polybar/
 ls
 cd ..
 ls
+git add *
+git commit -m "update dotfiles"
+ls
+git remote add origin git@github.com:Crypec/dots.git
+git branch -M main
+git push -u origin main
+ls
+git status
