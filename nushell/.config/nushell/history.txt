@@ -340,3 +340,9 @@ git commit -am "update dotfiles"
 ls
 git push -u origin main
 nvim README.md
+git commit -am "update dotfiles"
+git push -u origin main
+ls
+git stauts
+git status
+git add *
