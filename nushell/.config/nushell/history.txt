@@ -296,3 +296,10 @@ cd
 ls
 git commit -m "update dotfiles"
 ls
+git add *
+git commit -m "update dotfiles"
+ls
+cd .dots/
+ls
+nvim Readme.md
+bat Readme.md
