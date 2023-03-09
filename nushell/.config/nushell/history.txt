@@ -1,43 +1,146 @@
 rm -rf nushell/
+stow *
+stow -S nushell
 ls
-ls
+stow -S --adopt nushell
 cd nushell/
 ls
 cd ..
 ls
-treef
+cd ..
 ls
-mkdir helix/.config/helix
+rm description hooks/ index info objects/ refs HEAD branches/ COMMIT_EDITMSG
 ls
-cp -r helix/* /home/simon/.dots/helix/.config/helix/
-cp helix/* /home/simon/.dots/helix/.config/helix/
+rm logs/
+stow -S --adopt *
 ls
-cd helix/
 ls
-ls -a
-hx
+stow -S --adopt .
+rm refs objects/ logs index
 ls
-nivm helix/.config/helix/config.toml
-hx helix/.config/helix/config.toml
-ls
-cd hooks/
-ls
-cd 
-ls
-clear
-ls
-rm hooks/ description hooks/ info/ index lokgs refs 
-ls
-rm logs
-rm objects/
+stow -S --adopt .
 ls
 cd .config/
 ls
 cd ..
 ls
-ls -all
+stow -D --adopt .
 ls
-.gitconfig
-cd .dots
+rm description info/ hooks branches/ HEAD
+rm COMMIT_EDITMSG
+ls
+stow --target=/home/simon */
+ls
+bash
+ls
+cd gtk-3.0/
+ls
+ls -a
+cd ..
+ls
+bash
+ls
+clear
+ls
+mkdir gtk-3.0
+mkdir gtk-3.0/.config/gtk-3.0
+mv gtk-3.0/* ../.dots/gtk-3.0/.config/gtk-3.0/
+ls -a gtk-3.0/
+ls
+cd dconf/
+ls
+cat user
+cd ..
+ls
+mkdir pavucontrol
+mv pavucontrol.ini ../.dots/pavucontrol/
+ls
+stow pavucontrol/
+ls
+cd pavucontrol/
+ls
+cd ..
+ls
+stow pavucontrol/
+ls
+cd ..
+ls
+mkdir pavucontrol/.config
+mv pavucontrol/pavucontrol.ini pavucontrol/.config/
+ls
+stow pavucontrol/
+ljs
+ls
+rm Makefile
+ls
+rm sxhkdrc
+ls
+clear
+ls
+bat pavucontrol.ini
+cat pavucontrol.ini
+stow pavucontrol/
+ls
+bat pavucontrol.ini
+ls
+cd ..
+ls
+cd simon/.config/
+ls
+cat ksysguardrc
+clear
+ls
+cd `Signal Beta/`
+ls
+cd ..
+ls
+cd chromium/
+ls
+cd ..
+ls
+rm gtk-3.0/
+stow gtk-3.0/
+ls
+ls
+mkdir fish/.config/fish
+mv fish/* ../.dots/fish/.config/fish/
+ls
+rm -rf fish
+stow fish
+ls -a
+rm -rf fish
+ls
+ls
+stow fish
+cd fish/
+ls
+cd 
+cd .config/
+ls
+rm -rf fish/
+ls
+cd fish/.config/fish/
+ls
+cd ..
+ls
+stow fish
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+stow fish
+cd fish/
+ls
+cd completions/
+ls
+ls
+ls -a
+cd ..
+ls
+ls -a functions/
+ls
+cd ..
 ls
 git status
