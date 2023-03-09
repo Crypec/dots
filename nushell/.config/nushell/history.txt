@@ -275,3 +275,24 @@ git branch -M main
 git push -u origin main
 ls
 git status
+git add *
+git commit -m "update dotfiles"
+ls
+cd
+cd Pictures/
+ls
+mkdir wallpapers/Pictures/wallpapers
+mv ../Pictures/wallpapers/space.jpg wallpapers/Pictures/wallpapers/
+ls
+rm -rf wallpapers/
+stow wallpapers/
+ls
+cd wallpapers/
+ls
+cd ..
+ls
+cd .
+cd
+ls
+git commit -m "update dotfiles"
+ls
