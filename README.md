@@ -1,5 +1,7 @@
 # Dotfiles
 
+![desktop]("./readme_img.png")
+
 ## How to use it
 
 1. Clone this repo:

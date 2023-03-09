@@ -319,3 +319,20 @@ git push -u origin main
 ls
 nvim README.md
 ls
+git add *
+git commit -m "update dotfiles"
+git push -u origin main
+ls
+cd
+ls
+import
+sudo pacman -S import
+yay -S flameshot
+sudo pacman -S flameshot
+cd .dots/
+ls
+cd .dots/
+ls
+nvim README.md
+git commit -am ""
+ls
