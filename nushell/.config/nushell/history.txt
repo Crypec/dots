@@ -303,3 +303,9 @@ cd .dots/
 ls
 nvim Readme.md
 bat Readme.md
+git add *
+git status
+git commit -m "update dotfiles"
+git push -u origin main
+mv Readme.md README.md
+ls
