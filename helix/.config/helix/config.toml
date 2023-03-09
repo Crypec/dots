@@ -1,0 +1,9 @@
+[editor]
+auto-pairs = true
+[editor.auto-pairs]
+'(' = ')'
+'{' = '}'
+'[' = ']'
+'"' = '"'
+'`' = '`'
+'<' = '>'

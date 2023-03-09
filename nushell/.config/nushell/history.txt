@@ -1,0 +1,43 @@
+rm -rf nushell/
+ls
+ls
+cd nushell/
+ls
+cd ..
+ls
+treef
+ls
+mkdir helix/.config/helix
+ls
+cp -r helix/* /home/simon/.dots/helix/.config/helix/
+cp helix/* /home/simon/.dots/helix/.config/helix/
+ls
+cd helix/
+ls
+ls -a
+hx
+ls
+nivm helix/.config/helix/config.toml
+hx helix/.config/helix/config.toml
+ls
+cd hooks/
+ls
+cd 
+ls
+clear
+ls
+rm hooks/ description hooks/ info/ index lokgs refs 
+ls
+rm logs
+rm objects/
+ls
+cd .config/
+ls
+cd ..
+ls
+ls -all
+ls
+.gitconfig
+cd .dots
+ls
+git status
