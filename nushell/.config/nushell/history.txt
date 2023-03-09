@@ -144,3 +144,126 @@ ls
 cd ..
 ls
 git status
+git add *
+git commit -m "add config files for sxhkd,pavucontrol and fish"
+ls
+clear
+git status
+git add nushell/.config/nushell/history.txt
+ls
+git add Readme.md
+ls
+touch Readme.md
+ls
+cd ..
+ls
+cd ..
+cd
+cd .dots/
+ls
+cd fish/
+ls
+cd ..
+ls
+nvim helix/.config/helix/config.toml
+hx
+nvim .config/helix/config.toml
+lsr
+ls
+hx
+ls
+rm -rf git polybar/ spotify/ sxhkd/ yay makepkg/ helix/ git 
+ls
+rm nushell/ pavucontrol.ini functions/ fish_variables completions/
+ls
+rm conf.d config.fish alacritty/ bspwm/
+ls
+hx
+cd .config/
+ls
+cd fish
+ls
+cd conf.d/
+ls
+cd ..
+ls -all
+cd ..
+ls
+cd 
+cd .config/fish/
+ls
+ls -all
+nvim config.fish
+ls
+nvim .dots/nushell/
+ls
+cat .dots/Readme.md
+ls
+cd .dots/
+ls
+stow fish
+ls
+stow polybar/
+ls
+rm -rf fish
+rm -rf fish
+fish
+ls
+cd .config/
+ls
+cd fish/
+ls
+ls -a
+ls -all
+ls
+cd ..
+ls
+rm -rf fish
+fish
+ls
+nvim .config/fish
+cd .config/fish
+cd .config/
+ls
+cd 
+cd
+cd .config/
+ls
+cd fish/
+ls
+cd
+cd .dots/
+ls
+mkdir fish/.config/fish
+mv * /home/simon/.dots/fish/.config/fish/
+ls
+ls
+cd fish/.config/fish/
+ls
+cd ..
+ls
+cd ..
+rm -rf fish
+ls
+stow fish
+ls
+cd fish/ls
+cd fish
+ls
+cd ..
+ls
+cd ..
+ls
+rm functions
+stow fish
+ls
+rm fish_variables config.fish completions conf.d
+ls
+cd .config/
+ls
+tree discord/
+ls
+cd polybar/
+ls
+cd ..
+ls

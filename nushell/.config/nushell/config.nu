@@ -645,3 +645,4 @@ let-env config = {
   ]
 }
 alias hx = helix
+alias cat = bat
