@@ -8,3 +8,5 @@
 [user]
 	email = ctx@systemli.org
 	name = .xtc
+[core]
+	editor = helix
