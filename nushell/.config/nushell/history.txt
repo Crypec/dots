@@ -891,3 +891,48 @@ git push -u origin main
 git statuls
 git status
 git add helix/
+git commit -am "update dotfiles"
+git status
+git push -u origin main
+hx --health rust
+ls
+rustup
+rustup show
+rustup components
+rustup component
+rustup component list
+[language.language-server]
+command = "rustup"
+rustup component add llvm-tools
+ls
+hx --health rust
+cd
+fish
+clear
+cd Code/zuse
+hx compiler/konrad_hir/src/lib.rs
+hx --health
+cd .config/helix/
+ls
+ls -all
+cat languages.toml
+nvim languages.toml
+hx .dots/helix/.config/helix/languages.toml
+cd .config/
+ls
+cd helix/
+ls
+pwd
+hx --health
+cd Code/secro
+ls
+hx src/main.rs
+clear
+nvim .config/helix/languages.toml
+nvim .config/helix/config.toml
+ls
+clear
+cd .dots/
+ls
+git status
+git add *
