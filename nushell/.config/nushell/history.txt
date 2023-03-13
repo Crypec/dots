@@ -631,3 +631,9 @@ ls
 nvim config.toml
 git status
 git add *
+git commit -am "update dotfiles"
+ls
+clear
+git status
+git add *
+git add nushell/.config/nushell/history.txt
