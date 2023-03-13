@@ -637,3 +637,9 @@ clear
 git status
 git add *
 git add nushell/.config/nushell/history.txt
+git commit -am "update dotfiles"
+ls
+git push -u origin main
+nvim makepkg/.makepkg.conf
+git status
+ls
