@@ -886,3 +886,8 @@ stow helix
 nvim .config/helix/languages.toml
 ls
 git status
+git commit -am "update dotfiles"
+git push -u origin main
+git statuls
+git status
+git add helix/
