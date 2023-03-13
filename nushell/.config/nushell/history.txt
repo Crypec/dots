@@ -585,3 +585,49 @@ ls
 nvim compiler/konrad_hir/src/
 cd .dots
 git status
+git add *
+git commit -m "update dotfiles"
+ls
+git push -u origin main
+clear
+ls
+cd Code/zuse
+s
+ls
+cd
+ls
+cd Code/zuse
+ls
+cargo run
+cargo report future-incompatibilities --id 2
+clear
+cargo update
+cd .cargo/
+ls
+cd
+cd .dots/
+ls
+mkdir cargo
+cd cargo/
+us
+ls
+clear
+ls
+mkdir .cargo
+ls
+cd .cargo/
+ls
+nvim config.toml
+ls
+cd ..
+ls
+cd ..ls
+cd ..
+ls
+stow cargo/
+ls
+cd .cargo/
+ls
+nvim config.toml
+git status
+git add *
