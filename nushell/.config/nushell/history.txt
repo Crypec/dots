@@ -346,3 +346,242 @@ ls
 git stauts
 git status
 git add *
+git commit -am "update dotfiles"
+git push -u origin main
+ls
+git
+ls
+cd
+ls
+clear
+ls
+clear
+se
+clear
+yay -Syyu
+cd 
+ls
+cd Code/secro/
+ls
+git status
+nvim src/main.rs
+cd Code/secro/
+xrandr -q
+clear
+xrandr -q
+nvim .config/bspwm/bspwmrc
+++======_++___
+clear
+bacon
+cargo run
+bacon
+cargo run
+bacon
+cargo run
+hx src/main.rs
+bacon
+cargo run
+bacon
+cargo r
+cargo add rayon
+cargo run
+clear
+ cargo run
+cargo run --release
+cargo run
+cargo f
+cargo fmt
+cargo run
+nvim .config/bspwm/bspwmrc
+hx src/main.rs
+cargo run
+bacon
+cargo run --release
+cargo run
+cargo urn
+cargo run
+cargo fmt
+cargo run
+cargo fmt
+cargo run
+stack run
+cargo run
+stack run
+cargo run
+ cargo run
+cargo run
+bacon run
+cargo run
+cargo ruyn
+cargo run
+cargo run --release
+cargo run
+hx src/main.rs
+code .
+cargo run --release
+bacon
+nvim src/main.rs
+cargo run
+cargo run --release
+cargo run
+cargo urn
+cargo r
+cargo run
+cargo r
+cargo run
+clear
+cargo run 
+cargo run
+stack run
+cargo r
+cargo run
+cargo run --release
+cargo fmt
+cargo run
+cargo run --release
+cargi
+cargo run
+cargo run --release
+cargo fmt
+cargo run
+hx src/main.rs
+cargo fmt
+cargo run
+cargo urn
+cargo run
+cargo fmt
+cargo run
+cargo fmt
+bacon
+cargo fmt
+cargo run
+cargo fmt
+cargo run
+cargo urn
+cargo r
+cd Code/secro/
+ls
+cd Code/sec
+cd Code/secro
+ls
+clear
+ls
+cargo r
+cd Code/secro
+ls
+cd Code/secro
+ls
+hx src/main.rs
+cd Code/secro/
+ls
+cd Code/secro/
+cargo r
+bacon 
+cargo clippy
+cargo run --release
+clear
+nvim rooms.txt
+cat rooms.txt
+cat rooms.txt | grep mellerowicz
+nvim rooms.txt
+ls
+lines 
+lc -l rooms.txt
+ls
+lc rooms.txt
+wc rooms.txt
+wc -l rooms.txt
+clear
+cd Code/secro
+ls
+cargo run
+cargo fmt
+cargo clippy
+cargo fix
+cargo fix --allow-dirty
+cargo clippy
+:The suggestion may be what the user intended, but it is uncertain. The suggestion should result in valid Rust code if it is applied.
+cargo run
+cargo clippy
+cargo run
+xset r rate 150 200
+xset r rate 200 150
+xset r rate 200 100
+cargo fmt
+cargo run
+If nothing else works, and if you are using the Xorg (i.e. not Wayland), try running xset r rate 220 40 from a console.
+cargo run
+cargo clippy
+cargo run
+clear
+cargo clippy
+clear
+cargo run --release
+clear
+rm rooms.txt
+clear
+cd Code/secro
+ls
+cargo add itertools
+cargo run
+clear
+cargo add derivative
+cargo remove derivative
+cargo run --release
+cargo add educe
+cargo run
+cargo r
+cargo run
+clear
+clear
+rm rooms.txt
+cargo run --release
+hx src/main.rs
+let-env RAYON_NUM_THREADS=16 
+let-env RAYON_NUM_THREADS = '16'
+echo $RAYON_NUM_THREADS
+echo $env.RAYON_NUM_THREADS
+cd Code/secro/
+ls
+git status
+cargo run --release
+clear
+cd Code/secro/ls
+cd Code/secro/
+ls
+clear
+git status
+git log
+clear
+git add *
+git commit -m "initial commit"
+ls
+git status
+git remote add origin git@github.com:Crypec/secro.git
+git branch -M main
+git push -u origin main
+ls
+cd
+ls
+reboot
+ls
+clear
+yay -Syyu
+sudo mkinitcpio -P
+ls
+history
+history | grep grup
+history | grep grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+cd Code/
+ls
+cd zuse/
+ls
+git status
+ls
+git diff Cargo.lock
+ls
+nvim compiler/konrad_hir/src/
+cd .dots
+git status

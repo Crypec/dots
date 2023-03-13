@@ -9,7 +9,9 @@ xrandr --output DP-0 --mode 1920x1080 --rate 360.00 &
 feh --bg-fill /home/simon/Pictures/wallpapers/space.jpg
 sh /home/simon/.config/polybar/launch.sh &
 
-bspc monitor DP-0 -d I II III IV V VI VII VIII IX X
+
+bspc monitor DP-0 -d I II III IV V VI VII 
+bspc monitor HDMI-0 -d VIII IX X
 
 bspc config border_width         2
 bspc config window_gap          12
