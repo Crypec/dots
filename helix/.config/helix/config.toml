@@ -1,3 +1,5 @@
+theme = "gruvbox_dark_hard"
+
 [editor]
 mouse = false
 idle-timeout = 500 # show auto-completion after 500ms

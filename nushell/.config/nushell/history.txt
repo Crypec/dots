@@ -936,3 +936,159 @@ cd .dots/
 ls
 git status
 git add *
+git commit -am "update dotfiles"
+ls
+clear
+hx compiler/konrad_hir/src/lib.rs
+bacon
+nvim src/main.rs
+ls
+cargo run
+bacon
+cd 
+cd Code/secro/
+bacon
+cd 
+cd Code/zuse/
+ls
+cat compiler/konrad_ast/src/lib.rs
+cd Code/zuse/
+ls
+cd Code/zuse/
+ls
+bacon
+cd Code/zuse/
+ls
+nvim compiler/konrad_ast/Cargo.toml
+hx compiler/konrad_hir/src/lowering.rs
+hx compiler/konrad_hir/src/lib.rs
+ls
+cargo run
+nvim Cargo.toml
+git status
+cargo run
+git add Cargo.toml Cargo.lock
+git commit --amend
+nvim compiler/konrad_ast/src/lib.rs
+nvim compiler/konrad_ast/src/ast.rs
+nvim compiler/konrad_hir/Cargo.toml
+cat compiler/konrad_ast/Cargo.toml
+nvim compiler/konrad_hir/Cargo.toml
+ls
+git status
+bacon
+hx compiler/konrad_hir/src/lowering.rs
+cd Code/zuse/
+hx compiler/konrad_hir/Cargo.toml
+ls
+cd Code/zuse/
+cd Code/zuse
+ls
+cd Code/zuse/
+ls
+hx compiler/konrad/src/compiler.rs
+hx compiler/konrad/src/workspace.rs
+hx compiler/konrad/Cargo.toml
+cd Code/zuse/
+cd Code/zuse
+ls
+ls compiler/
+cd compiler/konrad_err/
+ls
+cat src/
+cd ..
+ls
+nvim compiler/konrad/Cargo.toml
+hx compiler/konrad_hir/src/lowering.rs
+ls
+ls compiler/
+hx compiler/konrad_hir/src/hir.rs
+hx compiler/konrad_hir/src/arena.rs
+hx compiler/konrad_hir/src/lib.rs
+cd Code/zuse/
+hx compiler/konrad_hir/src/hir.rs
+hx compiler/konrad_hir/src/lowering.rs
+hx compiler/konrad_hir/src/hir.rs
+bacon 
+clear
+bacon run
+cargo run
+cd Code/zuse
+nvim examples/test.zs
+hx compiler/konrad_hir/src/lowering.rs
+hx compiler/konrad_hir/Cargo.toml
+hx compiler/konrad_hir/src/lowering.rs
+ls compiler/
+hx compiler/konrad_hir/Cargo.toml
+sudo pacman -S keepassxc
+sudo pacman -S thunderbird
+cd Code/zuse/
+ls
+hx compiler/konrad_hir/src/arena.rs
+hx compiler/konrad_hir/src/lowering.rs
+git staut
+git status
+git diff --numstat
+git diff stat
+git stat
+git diff --stat
+git diff HEAD c9af3e6136e8 | diffstat -Cm
+re
+shutdown now
+cd Code/zuse
+ls
+cargo run
+cd ..
+cd secro/
+cargo run 
+cargo clean
+cargo run --release/
+cargo run --release
+reboot
+hx
+ls
+st
+cd
+ls
+cd .dots
+ls
+cd .dot
+ls
+cd .dots
+ls
+git status
+lst
+ls 
+cd
+cd .config/helix/
+ls
+ls -all
+cd ..
+ls
+cd ..
+ls
+cd 
+cd
+cd .config/
+ls
+cd helix/
+ls
+pwd
+ls
+mkdir themes
+ls
+hx
+cd 
+cd Code/secro/
+ls
+hx src/main.rs
+cd
+nvim .config/helix/config.toml
+hx
+nvim .config/helix/config.toml
+hx
+nvim .config/helix/config.toml
+hx
+cd .dots/
+ls
+git status
