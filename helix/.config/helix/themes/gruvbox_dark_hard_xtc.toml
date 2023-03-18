@@ -1,0 +1,11 @@
+# Author: .xtc <ctx@systemli.org>
+# The theme uses the gruvbox dark palette with hard contrast: github.com/morhetz/gruvbox
+# and custom cursor colores
+
+inherits = "gruvbox_dark_hard"
+
+"ui.cursor.insert" = {bg = yellow0, fg = yellow0}
+"ui.cursor.primary" = {bg = red0, fg = red0}
+
+
+  
