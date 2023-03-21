@@ -25,6 +25,11 @@ bspc rule -a Alacritty desktop='^1' follow=on
 bspc rula -a spotify desktop='^8' follow=off
 bspc rule -a Chromium desktop='^3' follow=on
 
+bspc rule -a "Signal Beta" deskpot='^6' follow=off
+bspc rule -a thunderbird desktop='^6' follow=off
+bspc rule -a spotify desktop='^8' follow=off
+bspc rule -a discord desktop='^6' follow=off
+
 bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
