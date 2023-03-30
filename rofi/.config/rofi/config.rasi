@@ -7,6 +7,7 @@ configuration {
 /*	fixed-num-lines: true;*/
     show-icons: true;
 /*	terminal: "rofi-sensible-terminal";*/
+	terminal: "alacritty";
 /*	ssh-client: "ssh";*/
 /*	ssh-command: "{terminal} -e {ssh-client} {host} [-p {port}]";*/
 /*	run-command: "{cmd}";*/
@@ -17,13 +18,13 @@ configuration {
 	icon-theme: "Papirus";
 /*	drun-match-fields: "name,generic,exec,categories,keywords";*/
 /*	drun-categories: ;*/
-/*	drun-show-actions: false;*/
+	drun-show-actions: true;
 /*	drun-display-format: "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";*/
 /*	drun-url-launcher: "xdg-open";*/
 /*	disable-history: false;*/
 /*	ignored-prefixes: "";*/
-/*	sort: false;*/
-/*	sorting-method: "normal";*/
+	sort: true;
+	sorting-method: "fzf";
 /*	case-sensitive: false;*/
 /*	cycle: true;*/
 /*	sidebar-mode: false;*/
@@ -32,8 +33,8 @@ configuration {
 /*	auto-select: false;*/
 /*	parse-hosts: false;*/
 /*	parse-known-hosts: true;*/
-/*	combi-modes: "window,run";*/
-/*	matching: "normal";*/
+	combi-modes: "window,drun";
+	matching: "fuzzy";
 /*	tokenize: true;*/
 /*	m: "-5";*/
 /*	filter: ;*/
@@ -47,10 +48,10 @@ configuration {
 /*	combi-display-format: "{mode} {text}";*/
 /*	matching-negate-char: '-' /* unsupported */;*/
 /*	cache-dir: ;*/
-/*	window-thumbnail: false;*/
+	window-thumbnail: true;
 /*	drun-use-desktop-cache: false;*/
 /*	drun-reload-desktop-cache: false;*/
-/*	normalize-match: false;*/
+	normalize-match: true;
 /*	steal-focus: false;*/
 /*	application-fallback-icon: ;*/
 /*	refilter-timeout-limit: 8192;*/
