@@ -6,6 +6,8 @@ idle-timeout = 500 # show auto-completion after 500ms
 auto-format = true
 auto-save = true
 
+[editor.soft-wrap]
+enable = true
 
 [editor.lsp]
 display-signature-help-docs = false
