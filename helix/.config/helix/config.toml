@@ -11,6 +11,7 @@ enable = true
 
 [editor.lsp]
 display-signature-help-docs = false
+enable = false
 
 
 [editor.auto-pairs]
@@ -20,3 +21,15 @@ display-signature-help-docs = false
 '"' = '"'
 '`' = '`'
 '<' = '>'
+
+[keys.insert]
+up = "no_op"
+down = "no_op"
+left = "no_op"
+right = "no_op"
+
+[keys.normal]
+up = "no_op"
+down = "no_op"
+left = "no_op"
+right = "no_op"
