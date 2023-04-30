@@ -11,7 +11,9 @@ enable = true
 
 [editor.lsp]
 display-signature-help-docs = false
-enable = false
+auto-signature-help = false
+display-inlay-hints = false
+snippets = false
 
 
 [editor.auto-pairs]
