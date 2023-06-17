@@ -536,3 +536,4 @@ let-env config = {
 }
 alias hx = helix
 alias cat = bat
+let-env PATH = ($env.PATH |split row ":"| prepend "~/.cargo/bin")
