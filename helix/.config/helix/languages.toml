@@ -3,5 +3,6 @@ name = "rust"
 auto-format = true
 
 [language.language-server]
-command = "rustup"
-args = ["run", "nightly", "rust-analyzer"]
+# command = "rustup"
+command = ""
+# args = ["run", "nightly", "rust-analyzer"]

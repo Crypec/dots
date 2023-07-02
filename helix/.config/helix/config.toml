@@ -10,6 +10,7 @@ auto-save = true
 enable = true
 
 [editor.lsp]
+# enable = true
 display-signature-help-docs = false
 auto-signature-help = false
 display-inlay-hints = false
