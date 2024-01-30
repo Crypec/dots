@@ -6,7 +6,7 @@
 	required = true
 	clean = git-lfs clean -- %f
 [user]
-	email = simon@xtc.dev
-	name = .xtc
+	email = 
+	name = clear
 [core]
 	editor = helix

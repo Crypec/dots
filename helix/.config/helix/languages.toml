@@ -2,8 +2,8 @@
 name = "rust"
 auto-format = true
 
-#[language.config]
-#diagnostics.disabled = [ "inactive-code" ]
+# [language.config]
+# diagnostics.disabled = [ "inactive-code" ]
 
 # [language.language-server]
 # command = "rustup"
